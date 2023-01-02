@@ -25,7 +25,10 @@
     According to data compiled by the Washington Post, there have been over 5,
     000 fatal police shootings in the USA between 2015 and 2021. 
     
-    These shootings have led to widespread public outrage, protests, and calls for reform. Studying police fatal shootings can help identify patterns and trends in these incidents, which can inform the development of policies and practices that may prevent or mitigate future shootings.
+    These shootings have led to widespread public outrage, protests, and calls for reform. 
+    Studying police fatal shootings can help identify patterns and trends in these incidents,
+    which can inform the development of policies and practices that may prevent or mitigate 
+    future shootings.
 
 
 ## There are several factors that contribute to police fatal shootings in the United States. One factor is the prevalence of gun ownership in the country. The United States has a high rate of gun ownership, with an estimated 120.5 guns per 100 residents. This means that individuals in the United States are more likely to be armed, and police officers may feel threatened or fear for their safety when encountering armed individuals.
@@ -45,7 +48,10 @@
 <br>
 
 
-    Overall, the goal of this project is to provide a comprehensive understanding of the issue of police fatal shootings in the United States and to offer practical solutions for reducing the frequency and severity of these incidents
+    Overall, the goal of this project is to provide a comprehensive 
+    understanding of the issue of police fatal shootings in the United States 
+    and to offer practical solutions for reducing the frequency and severity of 
+    these incidents
 
 <br>
 
